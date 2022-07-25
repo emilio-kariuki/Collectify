@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "780318268681",
+    "project_id": "apt-rite-346310",
+    "storage_bucket": "apt-rite-346310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780318268681:android:677a07711964dc789487d8",
+        "android_client_info": {
+          "package_name": "com.example.data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780318268681-ijq9vj2t9kn2gcivaf9ts2g7na0eibse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALI_BdxpN7o_cKJOPAaPDRKb81v64syP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780318268681-ijq9vj2t9kn2gcivaf9ts2g7na0eibse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780318268681:android:754863d083e303489487d8",
+        "android_client_info": {
+          "package_name": "com.mark.collect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780318268681-ijq9vj2t9kn2gcivaf9ts2g7na0eibse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALI_BdxpN7o_cKJOPAaPDRKb81v64syP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780318268681-ijq9vj2t9kn2gcivaf9ts2g7na0eibse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
