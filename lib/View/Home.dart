@@ -786,7 +786,7 @@ class _HomeState extends State<Home> {
     try {
       FirebaseStorage storage = FirebaseStorage.instance;
       String filename = path.basename(image.path);
-      Reference ref = storage.ref().child("EcoVille/$filename");
+      Reference ref = storage.ref().child("Progress/$filename");
       await ref.putFile(image);
       url = await ref.getDownloadURL();
       print(url);
